@@ -41,4 +41,4 @@ async def crash(ctx):
     # Send the embed to a Discord channel
     await ctx.send(file=discord.File('plot.png'), embed=embed)
 
-bot.run("YOUR_DISCORD_BOT_TOKEN")
+bot.run("495f4d1ec8cbed7cc5fbed23987dd340dadff3eb42fe6f7a8a8303859f18e0a1")
